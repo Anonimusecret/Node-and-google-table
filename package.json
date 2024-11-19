@@ -1,0 +1,23 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "API for fetching from database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Node.js",
+    "API",
+    "backend",
+    "google",
+    "tables"
+  ],
+  "author": "Anonimusecret",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^9.15.0",
+    "google-spreadsheet": "^4.1.4"
+  },
+  "type": "module"
+}
